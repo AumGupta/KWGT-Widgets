@@ -73,7 +73,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   
   > <img src="previews/iOS_Battery_Widget.kwgt.png" alt="Preview" style="width:150px;"/>
   >
-  > Battery widget inspired by Apple iOS.
+  > A Battery widget inspired by Apple iOS.
   > 
   > **Key Features:**  
   > - Progress color and icon based on battery level and status (Charging or not).
