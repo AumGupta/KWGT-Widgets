@@ -20,13 +20,50 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 
 - ### [Material3 Expanded Media Player](widgets/Material3_Expanded_Media_Player.kwgt)
   
-  > <img src="Preview/Material3_Expanded_Media_Player.kwgt.png" alt="Material You Media Player" style="width:250px;"/>
+  > <img src="previews/Material3_Expanded_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
   >
   > A fully customizable media player widget based on Material You theme.
   > 
   > **Key Features:**  
   > - Dynamic accent color theming based on song cover.  
   > - Integrated progress bar with wave effect.
+
+- ### [Univarsal Media Player](widgets/Universal_Media_Player.kwgt)
+  
+  > <img src="previews/Universal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
+  >
+  > A fully customizable universal media player widget.
+  > 
+  > **Key Features:**  
+  > - Blurred song cover fill in the background.  
+  > - Integrated progress bar on the album cover border.
+
+- ### [Minimal Media Player](widgets/Minimal_Media_Player.kwgt)
+  
+  > <img src="previews/Minimal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
+  >
+  > Minimal media player widget based on Material You theme.
+  >
+  > **Key Features:**  
+  > - Dynamic accent color theming based on system theme.  
+
+- ### [Minimal Media Player v2](widgets/Minimal_Media_Player_2.kwgt)
+  
+  > <img src="previews/Minimal_Media_Player_2.kwgt.png" alt="Preview" style="width:250px;"/>
+  >
+  > Minimal media player widget based on Material You theme (Version 2).
+  >
+  > **Key Features:**  
+  > - Dynamic accent color theming based on song cover.  
+
+- ### [Minimal Media Player v3](widgets/Minimal_Media_Player_3.kwgt)
+  
+  > <img src="previews/Minimal_Media_Player_3.kwgt.png" alt="Preview" style="width:250px;"/>
+  >
+  > Minimal media player widget based on Material You theme (Version 3).
+  >
+  > **Key Features:**  
+  > - Dynamic accent color theming based on song cover.  
 
 ---
 
