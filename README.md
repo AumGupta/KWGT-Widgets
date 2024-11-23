@@ -29,7 +29,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > - Integrated progress bar on the album cover border.
 
 
-- ### [Material3 Expanded Media Player](widgets/Material3_Expanded_Media_Player.kwgt)
+- ### [Material You Media Player](widgets/Material3_Expanded_Media_Player.kwgt)
   
   > <img src="previews/Material3_Expanded_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
   >
