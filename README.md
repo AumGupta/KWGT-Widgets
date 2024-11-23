@@ -6,13 +6,36 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 
 ## Installation
 
-1. Clone or download the repository to your local machine.  
-2. Transfer the `.kwgt` files from the `Widgets` directory to your Android device.  
-3. Transfer the custom font file (`.ttf` or `.otf`) to your device if required.  
-4. Import the widget into the KWGT app:
+### For Android Users {#AndroidInstructions}
+1. **Download the files directly**:
+   - Open this repository on GitHub in your mobile browser/GitHub App.  
+   - Navigate to the `Widgets` folder.  
+   - Tap on the `.kwgt` files and download them to your device (Optional: Move kwgt files at `Kwgt/Kustom/widgets`).
+   - If applicable, download the custom font file (`.ttf` or `.otf`) as well.  
+2. **Import into KWGT**:
    - Add a KWGT widget to your home screen.  
-   - Open the **KWGT** app and load the desired widget from the `Widgets` folder.  
-   - If prompted, apply the custom font within the widget settings.
+   - Open the **KWGT** app and select **Load Preset**.  
+   - Navigate to the downloaded `.kwgt` file and import it (Not Required: If already at `Kwgt/Kustom/widgets`).
+3. **Apply the custom font** (if required):
+   - Copy the downloaded font file to the `Custom Fonts` folder inside your KWGT directory (Usually: `Kwgt/Kustom/fonts`).
+   - Open the widget in the KWGT editor and set the font to the custom one.
+
+<details>
+  <summary style="font-weight:500; font-size:16px;"><a>Click to see instructions on installaiton via Computer.</a></summary>
+
+1. **Download the files**:
+   - Clone or download the repository:
+     ```bash
+     git clone https://github.com/AumGupta/KWGT-Widgets.git
+     ```
+   - Alternatively, download the repository as a `.zip` file from the GitHub page and extract it.
+2. **Transfer to your Android device**:
+   - Connect your device to your computer via USB or use a file transfer tool.  
+   - Copy the `.kwgt` files from the `Widgets` folder to your device's storage at `Kwgt/Kustom/widgets`.  
+   - If applicable, copy the custom font file (`.ttf` or `.otf`) to your device at `Kwgt/Kustom/fonts`.  
+3. **Import into KWGT**:
+   - Follow the same steps as [above](#AndroidInstructions) for importing into the KWGT app and applying the font.
+</details>
 
 ---
 
