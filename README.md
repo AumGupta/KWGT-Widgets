@@ -39,6 +39,15 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > - Dynamic accent color theming based on song cover.  
   > - Integrated progress bar with wave effect.
 
+- ### [Mini Media Player](widgets/Mini_Media_Player.kwgt)
+  
+  > <img src="previews/Mini_Media_Player.kwgt.png" alt="Preview" style="width:200px;"/>
+  >
+  > A mini media player widget based on Material You theme.
+  > 
+  > **Key Features:**  
+  > - Dynamic accent color theming based on song cover.
+
 - ### [Minimal Media Player](widgets/Minimal_Media_Player.kwgt)
   
   > <img src="previews/Minimal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
