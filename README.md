@@ -7,21 +7,18 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 ## Installation
 
 ### For Android Users
-1. **Download the files directly**:
-   - Open this repository on GitHub in your mobile browser/GitHub App.  
+1. **Download the files directly**: 
    - Navigate to the `Widgets` folder.  
    - Tap on the `.kwgt` files and download them to your device (Optional: Move kwgt files at `Kwgt/Kustom/widgets`).
-   - If applicable, download the custom font file (`.ttf` or `.otf`) as well.  
+   - If applicable, download the custom font file as well.  
 2. **Import into KWGT**:
    - Add a KWGT widget to your home screen.  
    - Open the **KWGT** app and select **Load Preset**.  
    - Navigate to the downloaded `.kwgt` file and import it (Not Required: If already at `Kwgt/Kustom/widgets`).
-3. **Apply the custom font** (if required):
-   - Copy the downloaded font file to the `Custom Fonts` folder inside your KWGT directory (Usually: `Kwgt/Kustom/fonts`).
-   - Open the widget in the KWGT editor and set the font to the custom one.
+   - Apply the custom font (if required).
 
 <details>
-  <summary style="font-weight:500; font-size:16px;"><a>Click to see instructions on installaiton via Computer.</a></summary>
+  <summary>Click to see instructions on installaiton via Computer.</summary>
 
 1. **Download the files**:
    - Clone or download the repository:
