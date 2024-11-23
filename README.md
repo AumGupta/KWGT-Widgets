@@ -18,16 +18,6 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 
 ## Current Widgets
 
-- ### [Material3 Expanded Media Player](widgets/Material3_Expanded_Media_Player.kwgt)
-  
-  > <img src="previews/Material3_Expanded_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
-  >
-  > A fully customizable media player widget based on Material You theme.
-  > 
-  > **Key Features:**  
-  > - Dynamic accent color theming based on song cover.  
-  > - Integrated progress bar with wave effect.
-
 - ### [Univarsal Media Player](widgets/Universal_Media_Player.kwgt)
   
   > <img src="previews/Universal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
@@ -37,6 +27,17 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Features:**  
   > - Blurred song cover fill in the background.  
   > - Integrated progress bar on the album cover border.
+
+
+- ### [Material3 Expanded Media Player](widgets/Material3_Expanded_Media_Player.kwgt)
+  
+  > <img src="previews/Material3_Expanded_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
+  >
+  > A fully customizable media player widget based on Material You theme.
+  > 
+  > **Key Features:**  
+  > - Dynamic accent color theming based on song cover.  
+  > - Integrated progress bar with wave effect.
 
 - ### [Minimal Media Player](widgets/Minimal_Media_Player.kwgt)
   
