@@ -49,35 +49,29 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > - Dynamic accent color theming based on song cover.
 
 - ### [Minimal Media Player](widgets/Minimal_Media_Player.kwgt)
-  
   > <img src="previews/Minimal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
   >
   > Minimal media player widget based on Material You theme.
   >
-  > **Key Features:**  
-  > - Dynamic accent color theming based on system theme.  
-
-- ### [Minimal Media Player v2](widgets/Minimal_Media_Player_2.kwgt)
-  
+  > - Key Feature: Dynamic accent color theming based on *system theme*.  
+  >
+  > [**Variant 2**](widgets/Minimal_Media_Player_2.kwgt)
+  >
+  >
   > <img src="previews/Minimal_Media_Player_2.kwgt.png" alt="Preview" style="width:250px;"/>
   >
-  > Minimal media player widget based on Material You theme (Version 2).
+  > - Key Difference:  Dynamic accent color theming based on *song cover*.  
   >
-  > **Key Features:**  
-  > - Dynamic accent color theming based on song cover.  
-
-- ### [Minimal Media Player v3](widgets/Minimal_Media_Player_3.kwgt)
-  
+  >[**Variant 3**](widgets/Minimal_Media_Player_3.kwgt)
+  >
   > <img src="previews/Minimal_Media_Player_3.kwgt.png" alt="Preview" style="width:250px;"/>
   >
-  > Minimal media player widget based on Material You theme (Version 3).
   >
-  > **Key Features:**  
-  > - Dynamic accent color theming based on song cover.  
+  > - Key Difference:  Dynamic accent color theming based on *song cover*.  
 
 - ### [iOS Battery Widget](widgets/iOS_Battery_Widget.kwgt)
   
-  > <img src="previews/iOS_Battery_Widget.kwgt.png" alt="Preview" style="width:200px;"/>
+  > <img src="previews/iOS_Battery_Widget.kwgt.png" alt="Preview" style="width:150px;"/>
   >
   > Battery widget inspired by Apple iOS.
   > 
