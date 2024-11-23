@@ -75,6 +75,15 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Features:**  
   > - Dynamic accent color theming based on song cover.  
 
+- ### [iOS Battery Widget](widgets/iOS_Battery_Widget.kwgt)
+  
+  > <img src="previews/iOS_Battery_Widget.kwgt.png" alt="Preview" style="width:200px;"/>
+  >
+  > Battery widget inspired by Apple iOS.
+  > 
+  > **Key Features:**  
+  > - Progress color and icon based on battery level and status (Charging or not).
+
 ---
 
 ## Contribution  
