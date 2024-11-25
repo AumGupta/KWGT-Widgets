@@ -95,6 +95,20 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Features:**  
   > - Progress color and icon based on battery level and status (Charging or not).
 
+- ### [Clean Time Date Info](widgets/Time_Date_Info.kwgt)
+  
+  > <img src="previews/Time_Date_Info_Dark.kwgt.png" alt="Preview" style="width:200px;"/> 
+  >
+  > Dark Mode
+  >
+  > <img src="previews/Time_Date_Info_Light.kwgt.png" alt="Preview" style="width:200px;"/> 
+  >
+  > Light Mode
+  >
+  > A clean time, date and battery information widget.
+  > 
+  > - Key Feature: Dynamic theme based on system theme.
+
 ---
 
 ## Contribution  
