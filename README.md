@@ -2,6 +2,7 @@
 
 This repository hosts a collection of custom [**KWGT widgets**](https://docs.kustom.rocks/docs/downloads/download-kwgt/). New widgets will be added periodically as the collection evolves.
 
+> ***Note:** All widgets are unlocked and modifiable.*
 ---
 
 ## Installation (Android)
