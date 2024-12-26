@@ -118,6 +118,8 @@ Contributions are welcome. If you have ideas for new widgets or enhancements, fe
 2. Make the necessary changes.  
 3. Submit a pull request for review.
 
+For detailed guidelines, refer to the [`CONTRIBUTING`](CONTRIBUTING.md) file.
+
 ---
 
 ## License  
