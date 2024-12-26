@@ -2,6 +2,7 @@
 
 This repository hosts a collection of custom [**KWGT widgets**](https://docs.kustom.rocks/docs/downloads/download-kwgt/). New widgets will be added periodically as the collection evolves.
 
+> ***Note:** All widgets are **unlocked** and **modifiable**.*
 ---
 
 ## Installation (Android)
@@ -53,8 +54,16 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > A fully customizable media player widget based on Material You theme.
   > 
   > **Key Features:**  
-  > - Dynamic accent color theming based on song cover.  
+  > - Dynamic accent color theming based on song cover.
   > - Integrated progress bar with wave effect.
+  > - Top right container shows music app name.
+  >
+  > 
+  > [**Variant 2**](widgets/Material3_Media_Player.kwgt)
+  > 
+  > <img src="previews/Material3_Media_Player_Output.kwgt.png" alt="Preview" style="width:250px;"/>
+  >
+  > - **Key Difference:**  Top right container shows *output* device (Phone/Bluetooth Device name).
 
 - ### [Mini Media Player](widgets/Mini_Media_Player.kwgt)
   
@@ -62,29 +71,26 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   >
   > A mini media player widget based on Material You theme.
   > 
-  > **Key Features:**  
-  > - Dynamic accent color theming based on song cover.
+  > **Key Feature:** Dynamic accent color theming based on song cover.
 
 - ### [Minimal Media Player](widgets/Minimal_Media_Player.kwgt)
   > <img src="previews/Minimal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
   >
   > Minimal media player widget based on Material You theme.
   >
-  > - Key Feature: Dynamic accent color theming based on *system theme*.  
+  > - **Key Feature:** Dynamic accent color theming based on *system theme*.  
   >
   > [**Variant 2**](widgets/Minimal_Media_Player_2.kwgt)
   >
-  >
   > <img src="previews/Minimal_Media_Player_2.kwgt.png" alt="Preview" style="width:250px;"/>
   >
-  > - Key Difference:  Dynamic accent color theming based on *song cover*.  
+  > - **Key Difference:**  Dynamic accent color theming based on *song cover*.  
   >
   >[**Variant 3**](widgets/Minimal_Media_Player_3.kwgt)
   >
   > <img src="previews/Minimal_Media_Player_3.kwgt.png" alt="Preview" style="width:250px;"/>
   >
-  >
-  > - Key Difference:  Dynamic accent color theming based on *song cover*.  
+  > - **Key Difference:**  Dynamic accent color theming based on *song cover*.  
 
 - ### [iOS Battery Widget](widgets/iOS_Battery_Widget.kwgt)
   
@@ -92,22 +98,21 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   >
   > A Battery widget inspired by Apple iOS.
   > 
-  > **Key Features:**  
-  > - Progress color and icon based on battery level and status (Charging or not).
+  > **Key Feature:** Progress color and icon based on battery level and status (Charging or not).
 
 - ### [Clean Time Date Info](widgets/Time_Date_Info.kwgt)
   
   > <img src="previews/Time_Date_Info_Dark.kwgt.png" alt="Preview" style="width:200px;"/> 
   >
-  > Dark Mode
+  > **Dark Mode**
   >
   > <img src="previews/Time_Date_Info_Light.kwgt.png" alt="Preview" style="width:200px;"/> 
   >
-  > Light Mode
+  > **Light Mode**
   >
   > A clean time, date and battery information widget.
   > 
-  > - Key Feature: Dynamic theme based on system theme.
+  > **Key Feature:** Dynamic theme based on system theme.
 
 ---
 
