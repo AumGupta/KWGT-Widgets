@@ -121,21 +121,22 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Dynamic theme based on system theme.
   
 - ### [Material Notification Widget](widgets/material_notification_widget.kwgt)
+  > 
+  > <img src="previews/material_notification_widget_dark.kwgt.png" alt="Preview" style="width:300px;"/> 
+  > 
   > **Dark Mode**
-  > 
-  > <img src="previews/material_notification_widget_dark.kwgt.png" alt="Preview" style="width:200px;"/> 
-  > 
-  > \
+  >
+  >
+  > <img src="previews/material_notification_widget.kwgt.png" alt="Preview" style="width:300px;"/> 
+  >
   > **Light Mode**
+  > 
   >
-  > <img src="previews/material_notification_widget.kwgt.png" alt="Preview" style="width:200px;"/> 
+  > <img src="previews/material_notification_widget_empty.kwgt.png" alt="Preview" style="width:300px;"/> 
   >
-  > \
   > **Empty State**
+  > 
   >
-  > <img src="previews/material_notification_widget_empty.kwgt.png" alt="Preview" style="width:200px;"/> 
-  >
-  > \
   > Material themed widget that shows details of top-most notification.
   > 
   > **Key Features:** 
