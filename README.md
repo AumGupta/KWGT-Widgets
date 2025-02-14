@@ -1,9 +1,15 @@
 # KWGT Widgets
 
+![GitHub License](https://img.shields.io/github/license/AumGupta/KWGT-widgets)
+![GitHub issues](https://img.shields.io/github/issues/AumGupta/KWGT-widgets)
+![GitHub repo size](https://img.shields.io/github/repo-size/AumGupta/KWGT-widgets)
+
+---
+
 This repository hosts a collection of custom [**KWGT widgets**](https://docs.kustom.rocks/docs/downloads/download-kwgt/). New widgets will be added periodically as the collection evolves.
 
-> ***Note:** All widgets are **unlocked** and **modifiable**.*
----
+> [!NOTE]
+> Star this repository to stay updated on our progress! The widgets are actively being developed, and we welcome and appreciate contributions. All widgets are fully **unlocked** and **customizable**.
 
 ## Installation (Android)
 1. **Download the files directly**: 
