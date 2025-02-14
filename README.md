@@ -119,7 +119,29 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > A clean time, date and battery information widget.
   > 
   > **Key Feature:** Dynamic theme based on system theme.
-
+  
+- ### [Material Notification Widget](widgets/material_notification_widget.kwgt)
+  > **Dark Mode**
+  > 
+  > <img src="previews/material_notification_widget_dark.kwgt.png" alt="Preview" style="width:200px;"/> 
+  > 
+  > \
+  > **Light Mode**
+  >
+  > <img src="previews/material_notification_widget.kwgt.png" alt="Preview" style="width:200px;"/> 
+  >
+  > \
+  > **Empty State**
+  >
+  > <img src="previews/material_notification_widget_empty.kwgt.png" alt="Preview" style="width:200px;"/> 
+  >
+  > \
+  > Material themed widget that shows details of top-most notification.
+  > 
+  > **Key Features:** 
+  > - Dynamic theme based on system theme (Dark/Light).
+  > - Clear button removes the current notification.
+  > - Clicking on the widget opens the notification.
 ---
 
 ## Contribution  
