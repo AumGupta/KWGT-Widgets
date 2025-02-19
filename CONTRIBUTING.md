@@ -25,6 +25,8 @@ Thank you for your interest in contributing to the KWGT Widgets project! Below a
    - Make your changes to the widgets.  
    - Ensure that widgets are **unlocked** before adding them to the repository.  
    - If you create a new widget, include a `.png` preview in the `previews/` folder.
+     > [!Warning]
+     > Strictly adhere by the Guidelines given at the end of this file.
 
 5. **Test Your Changes**  
    - Verify that your widget works correctly in the KWGT app.
@@ -54,8 +56,18 @@ Thank you for your interest in contributing to the KWGT Widgets project! Below a
 
 ---
 
-## Code Style Guidelines
+## Guidelines
 
-- Use descriptive and consistent file names (e.g., `Minimal_Media_Player.kwgt`).
-- Follow the existing folder structure (`widgets/`, `previews/`, `fonts/`).
-- Keep your commits focused on a single feature or fix.
+- Strictly follow the below **naming convention**:
+  - For **Widgets**:
+    - Capitalize each word.
+    - Separate them using underscore.
+    - E.g. `My_First_Widget.kwgt`.
+  - For **Previews**:
+    - Use the exact same name for Light theme.
+    - Add `Dark` prefix for Dark theme.
+    - For example:
+    - Light: `My_First_Widget.kwgt.png`
+    - Dark: `My_First_WidgetDark.kwgt.png`
+- Follow the existing folder structure (`widgets/`, `docs/previews/`, `fonts/`).
+- Keep your commits focused on a single widget or fix.

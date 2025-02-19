@@ -43,7 +43,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 ## Widget Gallery
 
 - ### [Universal Media Player](widgets/Universal_Media_Player.kwgt)
-  > <img src="previews/Universal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
+  > <img src="docs/previews/Universal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
   >
   > A fully customizable universal media player widget.
   > 
@@ -54,7 +54,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 
 - ### [Material3 Expanded Media Player](widgets/Material3_Expanded_Media_Player.kwgt)
   
-  > <img src="previews/Material3_Expanded_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
+  > <img src="docs/previews/Material3_Expanded_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
   >
   > A fully customizable media player widget based on Material You theme.
   > 
@@ -66,20 +66,20 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 
 - ### [Material3 Media Player Output](widgets/Material3_Media_Player_Output.kwgt)
   > 
-  > <img src="previews/Material3_Media_Player_Output.kwgt.png" alt="Preview" style="width:250px;"/>
+  > <img src="docs/previews/Material3_Media_Player_Output.kwgt.png" alt="Preview" style="width:250px;"/>
   >
   > - **Key Difference:**  Top right container shows *output* device (Phone/Bluetooth Device name).
 
 - ### [Mini Media Player](widgets/Mini_Media_Player.kwgt)
   
-  > <img src="previews/Mini_Media_Player.kwgt.png" alt="Preview" style="width:200px;"/>
+  > <img src="docs/previews/Mini_Media_Player.kwgt.png" alt="Preview" style="width:200px;"/>
   >
   > A mini media player widget based on Material You theme.
   > 
   > **Key Feature:** Dynamic accent color theming based on song cover.
 
 - ### [Minimal Media Player](widgets/Minimal_Media_Player.kwgt)
-  > <img src="previews/Minimal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
+  > <img src="docs/previews/Minimal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
   >
   > Minimal media player widget based on Material You theme.
   >
@@ -88,19 +88,19 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 
 - ### [Minimal Media Player 2](widgets/Minimal_Media_Player_2.kwgt)
   >
-  > <img src="previews/Minimal_Media_Player_2.kwgt.png" alt="Preview" style="width:250px;"/>
+  > <img src="docs/previews/Minimal_Media_Player_2.kwgt.png" alt="Preview" style="width:250px;"/>
   >
   > - **Key Difference:**  Dynamic accent color theming based on *song cover*.  
   >
 
 - ### [Minimal Media Player 3](widgets/Minimal_Media_Player_3.kwgt)
   >
-  > <img src="previews/Minimal_Media_Player_3.kwgt.png" alt="Preview" style="width:250px;"/>
+  > <img src="docs/previews/Minimal_Media_Player_3.kwgt.png" alt="Preview" style="width:250px;"/>
   >
   > - **Key Difference:**  Dynamic accent color theming based on *song cover*.  
 
 - ### [Nothing Analog ](widgets/Nothing_Analog_.kwgt)
-  > | <img src='previews/Nothing_Analog_.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Analog_Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Analog_.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Analog_Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -109,7 +109,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Analog 2](widgets/Nothing_Analog_2.kwgt)
-  > | <img src='previews/Nothing_Analog_2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Analog_2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Analog_2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Analog_2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -118,7 +118,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Analog 3](widgets/Nothing_Analog_3.kwgt)
-  > | <img src='previews/Nothing_Analog_3.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Analog_3Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Analog_3.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Analog_3Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -127,7 +127,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Analog 5](widgets/Nothing_Analog_5.kwgt)
-  > | <img src='previews/Nothing_Analog_5.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Analog_5Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Analog_5.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Analog_5Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -136,7 +136,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Analog 5 Transparent](widgets/Nothing_Analog_5_Transparent.kwgt)
-  > | <img src='previews/Nothing_Analog_5_Transparent.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Analog_5_TransparentDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Analog_5_Transparent.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Analog_5_TransparentDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -145,14 +145,14 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to wallpaper color Dark/Light [Note: Needs to be refreshed after changing wallpaper].
 
 - ### [Nothing Battery](widgets/Nothing_Battery.kwgt)
-  > <img src='previews/Nothing_Battery.kwgt.png' alt='Light Preview' style='width:200px;'/>
+  > <img src='docs/previews/Nothing_Battery.kwgt.png' alt='Light Preview' style='width:200px;'/>
   >
   > Nothing OS themed battery widget with dynamic themes.
   > 
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Battery2](widgets/Nothing_Battery2.kwgt)
-  > | <img src='previews/Nothing_Battery2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Battery2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Battery2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Battery2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -161,7 +161,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Battery Mini](widgets/Nothing_Battery_Mini.kwgt)
-  > | <img src='previews/Nothing_Battery_Mini.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Battery_MiniDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Battery_Mini.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Battery_MiniDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -170,7 +170,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing CPU](widgets/Nothing_CPU.kwgt)
-  > | <img src='previews/Nothing_CPU.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_CPUDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_CPU.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_CPUDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -179,7 +179,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Date Time](widgets/Nothing_Date_Time.kwgt)
-  > | <img src='previews/Nothing_Date_Time.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Date_TimeDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Date_Time.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Date_TimeDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -188,7 +188,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Date Time2](widgets/Nothing_Date_Time2.kwgt)
-  > | <img src='previews/Nothing_Date_Time2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Date_Time2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Date_Time2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Date_Time2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -197,7 +197,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Date Time3](widgets/Nothing_Date_Time3.kwgt)
-  > | <img src='previews/Nothing_Date_Time3.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Date_Time3Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Date_Time3.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Date_Time3Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -206,7 +206,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to wallpaper color Dark/Light [Note: Needs to be refreshed after changing wallpaper]..
 
 - ### [Nothing Digital](widgets/Nothing_Digital.kwgt)
-  > | <img src='previews/Nothing_Digital.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_DigitalDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Digital.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_DigitalDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -215,7 +215,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Digital2](widgets/Nothing_Digital2.kwgt)
-  > | <img src='previews/Nothing_Digital2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Digital2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Digital2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Digital2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -224,7 +224,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Digital3](widgets/Nothing_Digital3.kwgt)
-  > | <img src='previews/Nothing_Digital3.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Digital3Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Digital3.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Digital3Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -233,7 +233,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Digital4](widgets/Nothing_Digital4.kwgt)
-  > | <img src='previews/Nothing_Digital4.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Digital4Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Digital4.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Digital4Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -242,7 +242,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Digital Clock](widgets/Nothing_Digital_Clock.kwgt)
-  > | <img src='previews/Nothing_Digital_Clock.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Digital_ClockDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Digital_Clock.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Digital_ClockDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -251,7 +251,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Future Clock](widgets/Nothing_Future_Clock.kwgt)
-  > | <img src='previews/Nothing_Future_Clock.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Future_ClockDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Future_Clock.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Future_ClockDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -260,7 +260,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Master Widget](widgets/Nothing_Master_Widget.kwgt)
-  > | <img src='previews/Nothing_Master_Widget.kwgt.png' alt='Light Preview' style='width:250px;'/> | <img src='previews/Nothing_Master_WidgetDark.kwgt.png' alt='Dark Preview' style='width:250px;'/> |
+  > | <img src='docs/previews/Nothing_Master_Widget.kwgt.png' alt='Light Preview' style='width:250px;'/> | <img src='docs/previews/Nothing_Master_WidgetDark.kwgt.png' alt='Dark Preview' style='width:250px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -269,7 +269,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Media Player](widgets/Nothing_Media_Player.kwgt)
-  > | <img src='previews/Nothing_Media_Player.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Media_PlayerDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Media_Player.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Media_PlayerDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -278,7 +278,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Media Player2](widgets/Nothing_Media_Player2.kwgt)
-  > | <img src='previews/Nothing_Media_Player2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Media_Player2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Media_Player2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Media_Player2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -287,7 +287,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Mini Calender](widgets/Nothing_Mini_Calender.kwgt)
-  > | <img src='previews/Nothing_Mini_Calender.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Mini_CalenderDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Mini_Calender.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Mini_CalenderDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -296,7 +296,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to wallpaper color Dark/Light [Note: Needs to be refreshed after changing wallpaper].
 
 - ### [Nothing Sun Info](widgets/Nothing_Sun_Info.kwgt)
-  > | <img src='previews/Nothing_Sun_Info.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Sun_InfoDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Sun_Info.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Sun_InfoDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -305,7 +305,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > **Key Feature:** Automatically adapts to system theme.
 
 - ### [Nothing Temp](widgets/Nothing_Temp.kwgt)
-  > | <img src='previews/Nothing_Temp.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_TempDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > | <img src='docs/previews/Nothing_Temp.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_TempDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -315,7 +315,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 
 - ### [iOS Battery Widget](widgets/iOS_Battery_Widget.kwgt)
   
-  > <img src="previews/iOS_Battery_Widget.kwgt.png" alt="Preview" style="width:150px;"/>
+  > <img src="docs/previews/iOS_Battery_Widget.kwgt.png" alt="Preview" style="width:150px;"/>
   >
   > A Battery widget inspired by Apple iOS.
   > 
@@ -323,7 +323,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 
 - ### [Clean Time Date Info](widgets/Clean_Time_Date_Info.kwgt)
   
-  > | <img src="previews/Clean_Time_Date_Info.kwgt.png" alt="Preview" style="width:200px;"/> | <img src="previews/Clean_Time_Date_InfoDark.kwgt.png" alt="Preview" style="width:200px;"/> |
+  > | <img src="docs/previews/Clean_Time_Date_Info.kwgt.png" alt="Preview" style="width:200px;"/> | <img src="docs/previews/Clean_Time_Date_InfoDark.kwgt.png" alt="Preview" style="width:200px;"/> |
   > |-------|------|
   > | Light | Dark |
   >
@@ -334,7 +334,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 - ### [Material Notification Widget](widgets/Material_Notification_Widget.kwgt)
 
 
-  > | <img src="previews/Material_Notification_Widget.kwgt.png" alt="Preview" style="width:300px;"/>  | <img src="previews/Material_Notification_WidgetDark.kwgt.png" alt="Preview" style="width:300px;"/>  | <img src="previews/Material_Notification_Widget_Empty.kwgt.png" alt="Preview" style="width:300px;"/>  |
+  > | <img src="docs/previews/Material_Notification_Widget.kwgt.png" alt="Preview" style="width:300px;"/>  | <img src="docs/previews/Material_Notification_WidgetDark.kwgt.png" alt="Preview" style="width:300px;"/>  | <img src="docs/previews/Material_Notification_Widget_Empty.kwgt.png" alt="Preview" style="width:300px;"/>  |
   > |-------|------|------|
   > | Light | Dark | Empty State|
   > 
