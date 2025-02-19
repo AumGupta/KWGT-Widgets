@@ -25,8 +25,9 @@ Thank you for your interest in contributing to the KWGT Widgets project! Below a
    - Make your changes to the widgets.  
    - Ensure that widgets are **unlocked** before adding them to the repository.  
    - If you create a new widget, include a `.png` preview in the `previews/` folder.
-     > [!Warning]
-     > Strictly adhere by the Guidelines given at the end of this file.
+
+> [!CAUTION]
+> Strictly adhere by the [Guidelines](#guidelines) given at the end of this file.
 
 5. **Test Your Changes**  
    - Verify that your widget works correctly in the KWGT app.

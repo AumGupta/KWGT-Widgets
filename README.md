@@ -1,4 +1,4 @@
-# KWGT Widgets
+# <img src="docs/favicon/android-chrome-512x512.png" style="width:24px;"/> [KWGT Widgets](https://aumgupta.github.io/KWGT-Widgets/)
 
 ![GitHub License](https://img.shields.io/github/license/AumGupta/KWGT-widgets)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AumGupta/KWGT-widgets)
@@ -6,20 +6,20 @@
 
 ---
 
-This repository hosts a collection of custom [**KWGT widgets**](https://docs.kustom.rocks/docs/downloads/download-kwgt/). New widgets will be added periodically as the collection evolves.
+This repository hosts a collection of custom [**KWGT widgets**](https://aumgupta.github.io/KWGT-Widgets/). New widgets will be added periodically as the collection evolves.
 
 > [!NOTE]
 > Star this repository to stay updated on our progress! The widgets are actively being developed, and we welcome and appreciate contributions. All widgets are fully **unlocked** and **customizable**.
 
 ## Installation (Android)
-1. **Download the files directly**: 
-   - Navigate to the `widgets` folder.  
-   - Tap on the `.kwgt` files and download them to your device (Optional: Move kwgt files at `Kwgt/Kustom/widgets`).
-   - If applicable, download the custom font file as well from the `fonts` folder.
-2. **Import into KWGT**:
-   - Add a KWGT widget to your home screen.  
-   - Open the **KWGT** app and select **Load Preset**.  
-   - Navigate to the downloaded `.kwgt` file and import it (Not Required: If already at `Kwgt/Kustom/widgets`).
+
+1. **Download:**  
+    - Go to the `widgets` folder and download the `.kwgt` files (optionally move them to `Kwgt/Kustom/widgets`).  
+    - Download the custom font from the `fonts` folder (if requiered).
+
+2. **Import:**  
+    - Add a KWGT widget to your home screen.  
+    - Open KWGT, select **Load Preset**, and import the downloaded `.kwgt` file (skip if already in `Kwgt/Kustom/widgets`).
 
 <details>
   <summary>Click to see instructions on installaiton via Computer.</summary>
@@ -41,6 +41,10 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 ---
 
 ## Widget Gallery
+
+> [!TIP]
+> Visit the [**website**](https://aumgupta.github.io/KWGT-Widgets/) for better view of all the widgets. Detailed information about the widgets can be then found in the following.
+
 
 - ### [Universal Media Player](widgets/Universal_Media_Player.kwgt)
   > <img src="docs/previews/Universal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
