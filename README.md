@@ -334,7 +334,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 - ### [Material Notification Widget](widgets/Material_Notification_Widget.kwgt)
 
 
-  > | <img src="previews/Material_Notification_Widget.kwgt.png" alt="Preview" style="width:300px;"/>  | <img src="previews/Material_Notification_WidgetDark.kwgt.png" alt="Preview" style="width:300px;"/>  | <img src="previews/material_notification_widget_empty.kwgt.png" alt="Preview" style="width:300px;"/>  |
+  > | <img src="previews/Material_Notification_Widget.kwgt.png" alt="Preview" style="width:300px;"/>  | <img src="previews/Material_Notification_WidgetDark.kwgt.png" alt="Preview" style="width:300px;"/>  | <img src="previews/Material_Notification_Widget_Empty.kwgt.png" alt="Preview" style="width:300px;"/>  |
   > |-------|------|------|
   > | Light | Dark | Empty State|
   > 
