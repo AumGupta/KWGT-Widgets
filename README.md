@@ -1,8 +1,8 @@
 # KWGT Widgets
 
 ![GitHub License](https://img.shields.io/github/license/AumGupta/KWGT-widgets)
-![GitHub issues](https://img.shields.io/github/issues/AumGupta/KWGT-widgets)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AumGupta/KWGT-widgets)
+![Widget Count](https://img.shields.io/badge/widget%20Count-34-blue?style=social&link=https%3A%2F%2Fgithub.com%2FAumGupta%2FKWGT-Widgets%2Ftree%2Fmain%2Fwidgets)
 
 ---
 
@@ -40,10 +40,9 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
 
 ---
 
-## Current Widgets
+## Widget Gallery
 
-- ### [Univarsal Media Player](widgets/Universal_Media_Player.kwgt)
-  
+- ### [Universal Media Player](widgets/Universal_Media_Player.kwgt)
   > <img src="previews/Universal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
   >
   > A fully customizable universal media player widget.
@@ -53,7 +52,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > - Integrated progress bar on the album cover border.
 
 
-- ### [Material You Media Player](widgets/Material3_Expanded_Media_Player.kwgt)
+- ### [Material3 Expanded Media Player](widgets/Material3_Expanded_Media_Player.kwgt)
   
   > <img src="previews/Material3_Expanded_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
   >
@@ -64,8 +63,8 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > - Integrated progress bar with wave effect.
   > - Top right container shows music app name.
   >
-  > 
-  > [**Variant 2**](widgets/Material3_Media_Player.kwgt)
+
+- ### [Material3 Media Player Output](widgets/Material3_Media_Player_Output.kwgt)
   > 
   > <img src="previews/Material3_Media_Player_Output.kwgt.png" alt="Preview" style="width:250px;"/>
   >
@@ -86,17 +85,233 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   >
   > - **Key Feature:** Dynamic accent color theming based on *system theme*.  
   >
-  > [**Variant 2**](widgets/Minimal_Media_Player_2.kwgt)
+
+- ### [Minimal Media Player 2](widgets/Minimal_Media_Player_2.kwgt)
   >
   > <img src="previews/Minimal_Media_Player_2.kwgt.png" alt="Preview" style="width:250px;"/>
   >
   > - **Key Difference:**  Dynamic accent color theming based on *song cover*.  
   >
-  >[**Variant 3**](widgets/Minimal_Media_Player_3.kwgt)
+
+- ### [Minimal Media Player 3](widgets/Minimal_Media_Player_3.kwgt)
   >
   > <img src="previews/Minimal_Media_Player_3.kwgt.png" alt="Preview" style="width:250px;"/>
   >
   > - **Key Difference:**  Dynamic accent color theming based on *song cover*.  
+
+- ### [Nothing Analog ](widgets/Nothing_Analog_.kwgt)
+  > | <img src='previews/Nothing_Analog_.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Analog_Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed Analog clock widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Analog 2](widgets/Nothing_Analog_2.kwgt)
+  > | <img src='previews/Nothing_Analog_2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Analog_2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed Analog clock widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Analog 3](widgets/Nothing_Analog_3.kwgt)
+  > | <img src='previews/Nothing_Analog_3.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Analog_3Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed Analog clock widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Analog 5](widgets/Nothing_Analog_5.kwgt)
+  > | <img src='previews/Nothing_Analog_5.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Analog_5Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed Analog clock widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Analog 5 Transparent](widgets/Nothing_Analog_5_Transparent.kwgt)
+  > | <img src='previews/Nothing_Analog_5_Transparent.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Analog_5_TransparentDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed Transparent analog clock widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to wallpaper color Dark/Light [Note: Needs to be refreshed after changing wallpaper].
+
+- ### [Nothing Battery](widgets/Nothing_Battery.kwgt)
+  > <img src='previews/Nothing_Battery.kwgt.png' alt='Light Preview' style='width:200px;'/>
+  >
+  > Nothing OS themed battery widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Battery2](widgets/Nothing_Battery2.kwgt)
+  > | <img src='previews/Nothing_Battery2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Battery2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed battery widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Battery Mini](widgets/Nothing_Battery_Mini.kwgt)
+  > | <img src='previews/Nothing_Battery_Mini.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Battery_MiniDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed Mini Battery widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing CPU](widgets/Nothing_CPU.kwgt)
+  > | <img src='previews/Nothing_CPU.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_CPUDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed CPU Monitor widget that shows sytem, user and idle percentages with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Date Time](widgets/Nothing_Date_Time.kwgt)
+  > | <img src='previews/Nothing_Date_Time.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Date_TimeDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed minimal date-time widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Date Time2](widgets/Nothing_Date_Time2.kwgt)
+  > | <img src='previews/Nothing_Date_Time2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Date_Time2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed date-time widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Date Time3](widgets/Nothing_Date_Time3.kwgt)
+  > | <img src='previews/Nothing_Date_Time3.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Date_Time3Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed date-time+Temperatur+AQI widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to wallpaper color Dark/Light [Note: Needs to be refreshed after changing wallpaper]..
+
+- ### [Nothing Digital](widgets/Nothing_Digital.kwgt)
+  > | <img src='previews/Nothing_Digital.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_DigitalDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed Digital Clock widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Digital2](widgets/Nothing_Digital2.kwgt)
+  > | <img src='previews/Nothing_Digital2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Digital2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed Digital Clock widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Digital3](widgets/Nothing_Digital3.kwgt)
+  > | <img src='previews/Nothing_Digital3.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Digital3Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed Digital Clock widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Digital4](widgets/Nothing_Digital4.kwgt)
+  > | <img src='previews/Nothing_Digital4.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Digital4Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed digital clock widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Digital Clock](widgets/Nothing_Digital_Clock.kwgt)
+  > | <img src='previews/Nothing_Digital_Clock.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Digital_ClockDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed Digital+Analog clock widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Future Clock](widgets/Nothing_Future_Clock.kwgt)
+  > | <img src='previews/Nothing_Future_Clock.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Future_ClockDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed futuristic clock widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Master Widget](widgets/Nothing_Master_Widget.kwgt)
+  > | <img src='previews/Nothing_Master_Widget.kwgt.png' alt='Light Preview' style='width:250px;'/> | <img src='previews/Nothing_Master_WidgetDark.kwgt.png' alt='Dark Preview' style='width:250px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed MASTER widget All-in-one with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Media Player](widgets/Nothing_Media_Player.kwgt)
+  > | <img src='previews/Nothing_Media_Player.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Media_PlayerDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed Media Player widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Media Player2](widgets/Nothing_Media_Player2.kwgt)
+  > | <img src='previews/Nothing_Media_Player2.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Media_Player2Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > A clean Nothing OS themed mini media player widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Mini Calender](widgets/Nothing_Mini_Calender.kwgt)
+  > | <img src='previews/Nothing_Mini_Calender.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Mini_CalenderDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > A clean Nothing OS themed 5-day calender widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to wallpaper color Dark/Light [Note: Needs to be refreshed after changing wallpaper].
+
+- ### [Nothing Sun Info](widgets/Nothing_Sun_Info.kwgt)
+  > | <img src='previews/Nothing_Sun_Info.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_Sun_InfoDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed sunrise and sunset time widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Temp](widgets/Nothing_Temp.kwgt)
+  > | <img src='previews/Nothing_Temp.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='previews/Nothing_TempDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Nothing OS themed temperature widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
 
 - ### [iOS Battery Widget](widgets/iOS_Battery_Widget.kwgt)
   
@@ -106,63 +321,26 @@ This repository hosts a collection of custom [**KWGT widgets**](https://docs.kus
   > 
   > **Key Feature:** Progress color and icon based on battery level and status (Charging or not).
 
-- ### [Clean Time Date Info](widgets/Time_Date_Info.kwgt)
+- ### [Clean Time Date Info](widgets/Clean_Time_Date_Info.kwgt)
   
-  > <img src="previews/Time_Date_Info_Dark.kwgt.png" alt="Preview" style="width:200px;"/> 
-  >
-  > **Dark Mode**
-  >
-  > <img src="previews/Time_Date_Info_Light.kwgt.png" alt="Preview" style="width:200px;"/> 
-  >
-  > **Light Mode**
+  > | <img src="previews/Clean_Time_Date_Info.kwgt.png" alt="Preview" style="width:200px;"/> | <img src="previews/Clean_Time_Date_InfoDark.kwgt.png" alt="Preview" style="width:200px;"/> |
+  > |-------|------|
+  > | Light | Dark |
   >
   > A clean time, date and battery information widget.
   > 
   > **Key Feature:** Dynamic theme based on system theme.
   
-- ### [Material Notification Widget](widgets/material_notification_widget.kwgt)
+- ### [Material Notification Widget](widgets/Material_Notification_Widget.kwgt)
+
+
+  > | <img src="previews/Material_Notification_Widget.kwgt.png" alt="Preview" style="width:300px;"/>  | <img src="previews/Material_Notification_WidgetDark.kwgt.png" alt="Preview" style="width:300px;"/>  | <img src="previews/material_notification_widget_empty.kwgt.png" alt="Preview" style="width:300px;"/>  |
+  > |-------|------|------|
+  > | Light | Dark | Empty State|
   > 
-  > <img src="previews/material_notification_widget_dark.kwgt.png" alt="Preview" style="width:300px;"/> 
-  > 
-  > **Dark Mode**
-  >
-  >
-  > <img src="previews/material_notification_widget.kwgt.png" alt="Preview" style="width:300px;"/> 
-  >
-  > **Light Mode**
-  > 
-  >
-  > <img src="previews/material_notification_widget_empty.kwgt.png" alt="Preview" style="width:300px;"/> 
-  >
-  > **Empty State**
-  > 
-  >
   > Material themed widget that shows details of top-most notification.
   > 
   > **Key Features:** 
   > - Dynamic theme based on system theme (Dark/Light).
   > - Clear button removes the current notification.
   > - Clicking on the widget opens the notification.
----
-
-## Contribution  
-
-Contributions are welcome. If you have ideas for new widgets or enhancements, feel free to:  
-1. Fork the repository.  
-2. Make the necessary changes.  
-3. Submit a pull request for review.
-
-For detailed guidelines, refer to the [`CONTRIBUTING`](CONTRIBUTING.md) file.
-- ### [Time_Date_Info](widgets/Time_Date_Info.kwgt)
-  
-  > <img src="previews/Time_Date_Info_Dark.kwgt.png" alt="Preview" style="width:200px;"/> 
-  >
-  > **Dark Mode**
-  >
-  > <img src="previews/Time_Date_Info_Light.kwgt.png" alt="Preview" style="width:200px;"/> 
-  >
-  > **Light Mode**
-  >
-  > A clean widget with dynamic themes.
-  > 
-  > **Key Feature:** Automatically adapts to system theme.
