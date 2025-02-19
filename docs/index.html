@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KWGT Widgets</title>
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <!-- Container for consistent horizontal padding -->
+  <div class="container">
+    <!-- Introductory Section -->
+    <header class="intro">
+      <h1>KWGT Widgets</h1>
+      <h2>Customizable Home Screen Widgets for Android</h2>
+      <p>Explore a curated collection of beautifully designed, fully customizable widgets created with KWGT. Star the <a
+          href="https://github.com/AumGupta/KWGT-Widgets/">repository</a> on GitHub for latest updates. Contributions are always welcomed.</p>
+    </header>
+
+    <!-- Widget Grid -->
+    <div class="grid" id="widgets-container"></div>
+  </div>
+
+  <footer class="outro">
+    <div class="container">
+      <p>Maintained by <a href="https://aaumgupta.pages.dev" target="_blank">Om Gupta</a></p>
+      <div class="social-links">
+        <a href="https://github.com/AumGupta/" target="_blank">GitHub</a>
+        <a href="https://linkedin.com/in/aaumgupta" target="_blank">LinkedIn</a>
+        <a href="https://www.kaggle.com/aaumgupta" target="_blank">Kaggle</a>
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- Navbar -->
+  <nav>
+    <div class="navbar-left">
+      <h1>KWGT-Widgets</h1>
+      <p>view <a href="https://github.com/AumGupta/KWGT-Widgets/" target="_blank"><strong>Repository</strong></a></p>
+    </div>
+    <div class="navbar-right">
+      <button class="scroll-to-top" id="scroll-to-top">
+        <span class="material-icons">arrow_upward</span>
+      </button>
+      <button class="theme-toggle" onclick="toggleTheme()">
+        <span id="theme-icon" class="material-icons">dark_mode</span>
+        <span id="theme-text">Dark Mode</span>
+      </button>
+    </div>
+  </nav>
+  <script src="js/main.js"></script>
+</body>
+
+</html>

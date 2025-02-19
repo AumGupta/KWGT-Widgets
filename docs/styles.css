@@ -1,0 +1,390 @@
+/* CSS Reset & Base Box Sizing */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+
+  /* Light theme variables */
+  :root {
+    --body-bg: #f2f2f2;
+    --body-text: #333;
+    --nav-bg: rgba(255, 255, 255, 0.5);
+    /* Semi-transparent white */
+    --nav-bg-glow: rgba(0, 0, 0, 0.2);
+    --nav-text: #333;
+    --card-bg: #d2d2d2;
+    --card-text: #333;
+    --toggle-bg: #d2d2d2;
+    --toggle-text: #333;
+    --font-family: monospace;
+    --blur-amount: 15px;
+    --nav-padding: 20px 40px;
+    --card-height: 320px;
+    --card-img-height: 250px;
+    --card-shadow: rgba(0, 0, 0, 0.1);
+    --card-shadow-hvr: rgba(0, 0, 0, 0.15);
+    /* Introductory Section Colors */
+    --intro-title: #333;
+    --intro-subtitle: #555;
+    --intro-description: #777;
+  }
+
+  /* Dark theme overrides */
+  [data-theme="dark"] {
+    --body-bg: #2a2a2a;
+    --body-text: #eee;
+    --nav-bg: rgba(0, 0, 0, 0.5);
+    --nav-bg-glow: rgba(80, 80, 80, 0.2);
+    /* Semi-transparent white */
+    --nav-text: #eee;
+    --card-bg: rgba(0, 0, 0, 0.5);
+    --card-text: #eee;
+    --card-shadow: rgba(80, 80, 80, 0.1);
+    --card-shadow-hvr: rgba(80, 80, 80, 0.35);
+    --toggle-bg: #333;
+    --toggle-text: #eee;
+    /* Intro colors in dark mode */
+    --intro-title: #eee;
+    --intro-subtitle: #ccc;
+    --intro-description: #aaa;
+  }
+
+  /* Global Styles */
+  body {
+    font-family: var(--font-family);
+    background-color: var(--body-bg);
+    color: var(--body-text);
+    transition: background 0.3s, color 0.3s;
+    padding-bottom: 100px;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  .container {
+    margin: 0 auto;
+    padding: 0 180px;
+  }
+
+  /* Introductory Section */
+  .intro {
+    margin: 40px 0 20px;
+    text-align: left;
+  }
+
+  .intro h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+    color: var(--intro-title);
+  }
+
+  .intro h2 {
+    font-size: 32px;
+    margin-bottom: 10px;
+    color: var(--intro-subtitle);
+  }
+
+  .intro p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: var(--intro-description);
+  }
+
+  /* Grid container for widget cards */
+  .grid {
+    margin: 40px 0;
+    display: grid;
+    gap: 40px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+
+  .grid a {
+    text-decoration: none;
+  }
+
+  /* Widget card styling */
+  .widget {
+    display: block;
+    color: inherit;
+  }
+
+  .card {
+    background: var(--card-bg);
+    border-radius: 25px;
+    /* Increased border radius */
+    box-shadow: 0 4px 8px var(--card-shadow);
+    overflow: hidden;
+    transition: transform 0.3s, background 0.3s, box-shadow 0.3s;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    height: var(--card-height);
+  }
+
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px var(--card-shadow-hvr);
+  }
+
+  .card img {
+    width: 100%;
+    height: var(--card-img-height);
+    object-fit: contain;
+    display: block;
+    transition: opacity 0.3s;
+  }
+
+  .card-body {
+    padding: 10px;
+    text-align: center;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--card-text);
+  }
+
+  .card-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  nav {
+    position: fixed;
+    bottom: 20px;
+    left: 180px;
+    right: 180px;
+    z-index: 100;
+    background-color: var(--nav-bg);
+    color: var(--nav-text);
+    padding: var(--nav-padding);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 0 15px var(--nav-bg-glow);
+    backdrop-filter: blur(var(--blur-amount));
+    -webkit-backdrop-filter: blur(var(--blur-amount));
+    transition: background 0.3s, color 0.3s;
+    border-radius: 50px;
+  }
+
+  /* Navbar Left Section */
+  .navbar-left {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.2;
+  }
+
+  .navbar-left h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 4px;
+  }
+
+  .navbar-left p {
+    font-size: 16px;
+  }
+
+  .navbar-left a {
+    color: var(--nav-text);
+  }
+
+  /* Navbar Right Section */
+  .navbar-right {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  /* Scroll-to-Top Button (Circular with Fade-In) */
+  .scroll-to-top {
+    background-color: var(--toggle-bg);
+    color: var(--toggle-text);
+    border: none;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: opacity 0.3s ease-in-out, background 0.3s, color 0.3s;
+    opacity: 0;
+    pointer-events: none;
+  }
+
+  .scroll-to-top.visible {
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+  .scroll-to-top .material-icons {
+    font-size: 24px;
+  }
+
+  /* Theme Toggle Button (Rounded Rectangle with Icon + Text) */
+  .theme-toggle {
+    background-color: var(--toggle-bg);
+    color: var(--toggle-text);
+    border: none;
+    border-radius: 20px;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: background 0.3s, color 0.3s;
+  }
+
+  .theme-toggle .material-icons {
+    font-size: 20px;
+  }
+
+  /* Outro Section Styles */
+  .outro {
+    text-align: center;
+    margin: 80px 0;
+    padding: 12px 0;
+    background: var(--nav-bg);
+    color: var(--nav-text);
+  }
+
+  .outro .container {
+    margin: 0 auto;
+    padding: 0 40px;
+  }
+
+  .outro p {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  .outro .social-links {
+    font-size: 14px;
+  }
+
+  .outro .social-links a {
+    margin: 0 10px;
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .outro .social-links a:hover {
+    text-decoration: underline;
+  }
+
+  /* Responsive Media Queries */
+  @media (max-width: 920px) {
+    .container {
+      padding: 0 100px;
+    }
+
+    nav {
+      bottom: 20px;
+      left: 100px;
+      right: 100px;
+    }
+
+    .navbar-left h1 {
+      font-size: 24px;
+    }
+
+    .navbar-left p {
+      font-size: 14px;
+    }
+
+    .card img {
+      height: 180px;
+    }
+
+    .card-title {
+      font-size: 16px;
+    }
+
+    .card {
+      height: 300px;
+    }
+
+    .intro h1 {
+      font-size: 36px;
+    }
+
+    .intro h2 {
+      font-size: 24px;
+    }
+
+    .intro p {
+      font-size: 16px;
+    }
+  }
+
+  @media (max-width: 740px) {
+    .container {
+      padding: 0 64px;
+    }
+
+    nav {
+      /* padding: 16px 24px 16px 32px; */
+      left: 64px;
+      right: 64px;
+      border-radius: 50px;
+    }
+  }
+
+  @media (max-width: 480px) {
+    .container {
+      padding: 0 20px;
+    }
+
+    nav {
+      padding: 16px 24px 16px 32px;
+      left: 20px;
+      right: 20px;
+      border-radius: 50px;
+    }
+
+    .theme-toggle span#theme-text {
+      display: none;
+    }
+
+    .grid {
+      margin: 20px 0;
+      gap: 20px;
+    }
+
+    .navbar-left h1 {
+      font-size: 20px;
+    }
+
+    .navbar-left p {
+      font-size: 12px;
+    }
+
+    .card {
+      height: 240px;
+    }
+
+    .card img {
+      height: 180px;
+    }
+
+    .card-title {
+      font-size: 14px;
+    }
+
+    .intro h1 {
+      font-size: 28px;
+    }
+
+    .intro h2 {
+      font-size: 20px;
+    }
+
+    .intro p {
+      font-size: 14px;
+    }
+  }
