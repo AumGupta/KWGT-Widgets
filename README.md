@@ -153,10 +153,16 @@ Contributions are welcome. If you have ideas for new widgets or enhancements, fe
 3. Submit a pull request for review.
 
 For detailed guidelines, refer to the [`CONTRIBUTING`](CONTRIBUTING.md) file.
-
----
-
-## License  
-
-This repository is licensed under the **MIT License**. See the [`LICENSE`](LICENSE) file for more details.
-
+- ### [Time_Date_Info](widgets/Time_Date_Info.kwgt)
+  
+  > <img src="previews/Time_Date_Info_Dark.kwgt.png" alt="Preview" style="width:200px;"/> 
+  >
+  > **Dark Mode**
+  >
+  > <img src="previews/Time_Date_Info_Light.kwgt.png" alt="Preview" style="width:200px;"/> 
+  >
+  > **Light Mode**
+  >
+  > A clean widget with dynamic themes.
+  > 
+  > **Key Feature:** Automatically adapts to system theme.
