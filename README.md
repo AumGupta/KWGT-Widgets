@@ -42,9 +42,9 @@ This repository hosts a collection of custom [**KWGT widgets**](https://aumgupta
 
 ## Widget Gallery
 
-> ![TIP]
-> Visit the [**website**](https://aumgupta.github.io/KWGT-Widgets/) for better view of all the widgets.
->Detailed information about the widgets can be then found in the following.
+> [!TIP]
+> Visit the [**website**](https://aumgupta.github.io/KWGT-Widgets/) for better view of all the widgets. Detailed information about the widgets can be then found in the following.
+
 
 - ### [Universal Media Player](widgets/Universal_Media_Player.kwgt)
   > <img src="docs/previews/Universal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
