@@ -103,6 +103,18 @@
     color: var(--intro-description);
   }
 
+  .intro-stack {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+
+  #logo{
+    margin-bottom: 12px;
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+
   /* Grid container for widget cards */
   .grid {
     margin: 40px 0;
@@ -396,5 +408,11 @@
 
     .intro p {
       font-size: 14px;
+    }
+
+    #logo{
+      margin-bottom: 8px;
+      width: 2rem;
+      height: 2rem;
     }
   }
