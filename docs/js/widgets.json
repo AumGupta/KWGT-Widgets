@@ -28,6 +28,13 @@
         "size": "1x1"
     },
     {
+        "name": "Nothing Media Player3",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Media_Player3.kwgt",
+        "lightImage": "Nothing_Media_Player3.kwgt.png",
+        "darkImage": "Nothing_Media_Player3Dark.kwgt.png",
+        "size": "1x1"
+    },
+    {
         "name": "Nothing Media Player2",
         "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Media_Player2.kwgt",
         "lightImage": "Nothing_Media_Player2.kwgt.png",

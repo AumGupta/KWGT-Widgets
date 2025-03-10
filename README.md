@@ -2,7 +2,7 @@
 
 ![GitHub License](https://img.shields.io/github/license/AumGupta/KWGT-widgets)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AumGupta/KWGT-widgets)
-![Widget Count](https://img.shields.io/badge/widget%20Count-34-blue?style=social&link=https%3A%2F%2Fgithub.com%2FAumGupta%2FKWGT-Widgets%2Ftree%2Fmain%2Fwidgets)
+![Widget Count](https://img.shields.io/badge/widget%20Count-35-blue?style=social&link=https%3A%2F%2Fgithub.com%2FAumGupta%2FKWGT-Widgets%2Ftree%2Fmain%2Fwidgets)
 
 ---
 
@@ -289,6 +289,15 @@ This repository hosts a collection of custom [**KWGT widgets**](https://aumgupta
   > A clean Nothing OS themed mini media player widget with dynamic themes.
   > 
   > **Key Feature:** Automatically adapts to system theme.
+
+- ### [Nothing Media Player3](widgets/Nothing_Media_Player3.kwgt)
+  > | <img src='docs/previews/Nothing_Media_Player3.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Media_Player3Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > A clean medial player widget widget with dynamic themes.
+  > 
+  > **Key Feature:** Minimalist and aesthetically pleasing design.
 
 - ### [Nothing Mini Calender](widgets/Nothing_Mini_Calender.kwgt)
   > | <img src='docs/previews/Nothing_Mini_Calender.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Mini_CalenderDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
