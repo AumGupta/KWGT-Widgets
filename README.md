@@ -1,4 +1,4 @@
-# <img src="docs/favicon/android-chrome-512x512.png" style="width:24px;"/> [KWGT Widgets](https://aumgupta.github.io/KWGT-Widgets/)
+# <img src="docs/assets/logo.webp" style="width:24px;"/> [KWGT Widgets](https://aumgupta.github.io/KWGT-Widgets/)
 
 ![GitHub License](https://img.shields.io/github/license/AumGupta/KWGT-widgets)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AumGupta/KWGT-widgets)
