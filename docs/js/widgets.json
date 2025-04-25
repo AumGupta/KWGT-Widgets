@@ -1,30 +1,37 @@
 [
     {
-        "name": "Universal Media Player",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Universal_Media_Player.kwgt",
-        "lightImage": "Universal_Media_Player.kwgt.png",
-        "darkImage": "Universal_Media_Player.kwgt.png",
+        "name": "Interstellar Endurance Analog 2",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Interstellar_Endurance_Analog_2.kwgt",
+        "lightImage": "Interstellar_Endurance_Analog_2.kwgt.png",
+        "darkImage": "Interstellar_Endurance_Analog_2.kwgt.png",
         "size": "1x1"
     },
     {
-        "name": "Nothing Temp",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Temp.kwgt",
-        "lightImage": "Nothing_Temp.kwgt.png",
-        "darkImage": "Nothing_TempDark.kwgt.png",
+        "name": "Interstellar Analog Khaki Field Murph Auto",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Interstellar_Analog_Khaki_Field_Murph_Auto.kwgt",
+        "lightImage": "Interstellar_Analog_Khaki_Field_Murph_Auto.kwgt.png",
+        "darkImage": "Interstellar_Analog_Khaki_Field_Murph_Auto.kwgt.png",
         "size": "1x1"
     },
     {
-        "name": "Nothing Sun Info",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Sun_Info.kwgt",
-        "lightImage": "Nothing_Sun_Info.kwgt.png",
-        "darkImage": "Nothing_Sun_InfoDark.kwgt.png",
+        "name": "Interstellar Analog",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Interstellar_Analog.kwgt",
+        "lightImage": "Interstellar_Analog.kwgt.png",
+        "darkImage": "Interstellar_Analog.kwgt.png",
         "size": "1x1"
     },
     {
-        "name": "Nothing Mini Calender",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Mini_Calender.kwgt",
-        "lightImage": "Nothing_Mini_Calender.kwgt.png",
-        "darkImage": "Nothing_Mini_CalenderDark.kwgt.png",
+        "name": "Interstellar Endurance",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Interstellar_Endurance.kwgt",
+        "lightImage": "Interstellar_Endurance.kwgt.png",
+        "darkImage": "Interstellar_EnduranceDark.kwgt.png",
+        "size": "1x1"
+    },
+    {
+        "name": "Interstellar Endurance Analog",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Interstellar_Endurance_Analog.kwgt",
+        "lightImage": "Interstellar_Endurance_Analog.kwgt.png",
+        "darkImage": "Interstellar_Endurance_AnalogDark.kwgt.png",
         "size": "1x1"
     },
     {
@@ -35,38 +42,10 @@
         "size": "1x1"
     },
     {
-        "name": "Nothing Media Player2",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Media_Player2.kwgt",
-        "lightImage": "Nothing_Media_Player2.kwgt.png",
-        "darkImage": "Nothing_Media_Player2Dark.kwgt.png",
-        "size": "1x1"
-    },
-    {
-        "name": "Nothing Media Player",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Media_Player.kwgt",
-        "lightImage": "Nothing_Media_Player.kwgt.png",
-        "darkImage": "Nothing_Media_PlayerDark.kwgt.png",
-        "size": "1x1"
-    },
-    {
-        "name": "Nothing Master Widget",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Master_Widget.kwgt",
-        "lightImage": "Nothing_Master_Widget.kwgt.png",
-        "darkImage": "Nothing_Master_WidgetDark.kwgt.png",
-        "size": "1x1"
-    },
-    {
-        "name": "Nothing Future Clock",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Future_Clock.kwgt",
-        "lightImage": "Nothing_Future_Clock.kwgt.png",
-        "darkImage": "Nothing_Future_ClockDark.kwgt.png",
-        "size": "1x1"
-    },
-    {
-        "name": "Nothing Digital Clock",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Digital_Clock.kwgt",
-        "lightImage": "Nothing_Digital_Clock.kwgt.png",
-        "darkImage": "Nothing_Digital_ClockDark.kwgt.png",
+        "name": "Nothing Sun Info",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Sun_Info.kwgt",
+        "lightImage": "Nothing_Sun_Info.kwgt.png",
+        "darkImage": "Nothing_Sun_InfoDark.kwgt.png",
         "size": "1x1"
     },
     {
@@ -84,10 +63,52 @@
         "size": "1x1"
     },
     {
-        "name": "Nothing Digital2",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Digital2.kwgt",
-        "lightImage": "Nothing_Digital2.kwgt.png",
-        "darkImage": "Nothing_Digital2Dark.kwgt.png",
+        "name": "Nothing Mini Calender",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Mini_Calender.kwgt",
+        "lightImage": "Nothing_Mini_Calender.kwgt.png",
+        "darkImage": "Nothing_Mini_CalenderDark.kwgt.png",
+        "size": "1x1"
+    },
+    {
+        "name": "Nothing Media Player2",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Media_Player2.kwgt",
+        "lightImage": "Nothing_Media_Player2.kwgt.png",
+        "darkImage": "Nothing_Media_Player2Dark.kwgt.png",
+        "size": "1x1"
+    },
+    {
+        "name": "Nothing Digital Clock",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Digital_Clock.kwgt",
+        "lightImage": "Nothing_Digital_Clock.kwgt.png",
+        "darkImage": "Nothing_Digital_ClockDark.kwgt.png",
+        "size": "1x1"
+    },
+    {
+        "name": "Nothing Analog 2",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Analog_2.kwgt",
+        "lightImage": "Nothing_Analog_2.kwgt.png",
+        "darkImage": "Nothing_Analog_2Dark.kwgt.png",
+        "size": "1x1"
+    },
+    {
+        "name": "Nothing Analog 3",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Analog_3.kwgt",
+        "lightImage": "Nothing_Analog_3.kwgt.png",
+        "darkImage": "Nothing_Analog_3Dark.kwgt.png",
+        "size": "1x1"
+    },
+    {
+        "name": "Nothing Analog ",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Analog_.kwgt",
+        "lightImage": "Nothing_Analog_.kwgt.png",
+        "darkImage": "Nothing_Analog_Dark.kwgt.png",
+        "size": "1x1"
+    },
+    {
+        "name": "Nothing Battery",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Battery.kwgt",
+        "lightImage": "Nothing_Battery.kwgt.png",
+        "darkImage": "Nothing_Battery.kwgt.png",
         "size": "1x1"
     },
     {
@@ -98,10 +119,10 @@
         "size": "1x1"
     },
     {
-        "name": "Nothing Date Time3",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Date_Time3.kwgt",
-        "lightImage": "Nothing_Date_Time3.kwgt.png",
-        "darkImage": "Nothing_Date_Time3Dark.kwgt.png",
+        "name": "Nothing Digital2",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Digital2.kwgt",
+        "lightImage": "Nothing_Digital2.kwgt.png",
+        "darkImage": "Nothing_Digital2Dark.kwgt.png",
         "size": "1x1"
     },
     {
@@ -119,10 +140,17 @@
         "size": "1x1"
     },
     {
-        "name": "Nothing CPU",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_CPU.kwgt",
-        "lightImage": "Nothing_CPU.kwgt.png",
-        "darkImage": "Nothing_CPUDark.kwgt.png",
+        "name": "Nothing Future Clock",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Future_Clock.kwgt",
+        "lightImage": "Nothing_Future_Clock.kwgt.png",
+        "darkImage": "Nothing_Future_ClockDark.kwgt.png",
+        "size": "1x1"
+    },
+    {
+        "name": "Nothing Master Widget",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Master_Widget.kwgt",
+        "lightImage": "Nothing_Master_Widget.kwgt.png",
+        "darkImage": "Nothing_Master_WidgetDark.kwgt.png",
         "size": "1x1"
     },
     {
@@ -133,24 +161,10 @@
         "size": "1x1"
     },
     {
-        "name": "Nothing Battery2",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Battery2.kwgt",
-        "lightImage": "Nothing_Battery2.kwgt.png",
-        "darkImage": "Nothing_Battery2Dark.kwgt.png",
-        "size": "1x1"
-    },
-    {
-        "name": "Nothing Battery",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Battery.kwgt",
-        "lightImage": "Nothing_Battery.kwgt.png",
-        "darkImage": "Nothing_Battery.kwgt.png",
-        "size": "1x1"
-    },
-    {
-        "name": "Nothing Analog 5 Transparent",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Analog_5_Transparent.kwgt",
-        "lightImage": "Nothing_Analog_5_Transparent.kwgt.png",
-        "darkImage": "Nothing_Analog_5_TransparentDark.kwgt.png",
+        "name": "Nothing CPU",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_CPU.kwgt",
+        "lightImage": "Nothing_CPU.kwgt.png",
+        "darkImage": "Nothing_CPUDark.kwgt.png",
         "size": "1x1"
     },
     {
@@ -161,52 +175,38 @@
         "size": "1x1"
     },
     {
-        "name": "Nothing Analog 3",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Analog_3.kwgt",
-        "lightImage": "Nothing_Analog_3.kwgt.png",
-        "darkImage": "Nothing_Analog_3Dark.kwgt.png",
+        "name": "Nothing Date Time3",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Date_Time3.kwgt",
+        "lightImage": "Nothing_Date_Time3.kwgt.png",
+        "darkImage": "Nothing_Date_Time3Dark.kwgt.png",
         "size": "1x1"
     },
     {
-        "name": "Nothing Analog 2",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Analog_2.kwgt",
-        "lightImage": "Nothing_Analog_2.kwgt.png",
-        "darkImage": "Nothing_Analog_2Dark.kwgt.png",
+        "name": "Nothing Media Player",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Media_Player.kwgt",
+        "lightImage": "Nothing_Media_Player.kwgt.png",
+        "darkImage": "Nothing_Media_PlayerDark.kwgt.png",
         "size": "1x1"
     },
     {
-        "name": "Nothing Analog ",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Analog_.kwgt",
-        "lightImage": "Nothing_Analog_.kwgt.png",
-        "darkImage": "Nothing_Analog_Dark.kwgt.png",
+        "name": "Nothing Analog 5 Transparent",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Analog_5_Transparent.kwgt",
+        "lightImage": "Nothing_Analog_5_Transparent.kwgt.png",
+        "darkImage": "Nothing_Analog_5_TransparentDark.kwgt.png",
         "size": "1x1"
     },
     {
-        "name": "Mini Media Player",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Mini_Media_Player.kwgt",
-        "lightImage": "Mini_Media_Player.kwgt.png",
-        "darkImage": "Mini_Media_Player.kwgt.png",
+        "name": "Nothing Temp",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Temp.kwgt",
+        "lightImage": "Nothing_Temp.kwgt.png",
+        "darkImage": "Nothing_TempDark.kwgt.png",
         "size": "1x1"
     },
     {
-        "name": "Minimal Media Player 3",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Minimal_Media_Player_3.kwgt",
-        "lightImage": "Minimal_Media_Player_3.kwgt.png",
-        "darkImage": "Minimal_Media_Player_3.kwgt.png",
-        "size": "1x1"
-    },
-    {
-        "name": "Minimal Media Player 2",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Minimal_Media_Player_2.kwgt",
-        "lightImage": "Minimal_Media_Player_2.kwgt.png",
-        "darkImage": "Minimal_Media_Player_2.kwgt.png",
-        "size": "1x1"
-    },
-    {
-        "name": "Minimal Media Player",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Minimal_Media_Player.kwgt",
-        "lightImage": "Minimal_Media_Player.kwgt.png",
-        "darkImage": "Minimal_Media_Player.kwgt.png",
+        "name": "Nothing Battery2",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Nothing_Battery2.kwgt",
+        "lightImage": "Nothing_Battery2.kwgt.png",
+        "darkImage": "Nothing_Battery2Dark.kwgt.png",
         "size": "1x1"
     },
     {
@@ -231,6 +231,13 @@
         "size": "1x1"
     },
     {
+        "name": "Clean Time Date Info",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Clean_Time_Date_Info.kwgt",
+        "lightImage": "Clean_Time_Date_Info.kwgt.png",
+        "darkImage": "Clean_Time_Date_InfoDark.kwgt.png",
+        "size": "1x1"
+    },
+    {
         "name": "iOS Battery Widget",
         "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/iOS_Battery_Widget.kwgt",
         "lightImage": "iOS_Battery_Widget.kwgt.png",
@@ -238,10 +245,38 @@
         "size": "1x1"
     },
     {
-        "name": "Clean Time Date Info",
-        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Clean_Time_Date_Info.kwgt",
-        "lightImage": "Clean_Time_Date_Info.kwgt.png",
-        "darkImage": "Clean_Time_Date_InfoDark.kwgt.png",
+        "name": "Minimal Media Player 3",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Minimal_Media_Player_3.kwgt",
+        "lightImage": "Minimal_Media_Player_3.kwgt.png",
+        "darkImage": "Minimal_Media_Player_3.kwgt.png",
+        "size": "1x1"
+    },
+    {
+        "name": "Universal Media Player",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Universal_Media_Player.kwgt",
+        "lightImage": "Universal_Media_Player.kwgt.png",
+        "darkImage": "Universal_Media_Player.kwgt.png",
+        "size": "1x1"
+    },
+    {
+        "name": "Minimal Media Player",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Minimal_Media_Player.kwgt",
+        "lightImage": "Minimal_Media_Player.kwgt.png",
+        "darkImage": "Minimal_Media_Player.kwgt.png",
+        "size": "1x1"
+    },
+    {
+        "name": "Minimal Media Player 2",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Minimal_Media_Player_2.kwgt",
+        "lightImage": "Minimal_Media_Player_2.kwgt.png",
+        "darkImage": "Minimal_Media_Player_2.kwgt.png",
+        "size": "1x1"
+    },
+    {
+        "name": "Mini Media Player",
+        "link": "https://github.com/AumGupta/KWGT-Widgets/tree/main/widgets/Mini_Media_Player.kwgt",
+        "lightImage": "Mini_Media_Player.kwgt.png",
+        "darkImage": "Mini_Media_Player.kwgt.png",
         "size": "1x1"
     }
 ]

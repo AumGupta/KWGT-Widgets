@@ -1,4 +1,5 @@
 let isDarkMode = false;
+toggleTheme();
 
 // Inverted preview logic: when in light mode, show dark preview; when in dark mode, show light preview.
 function setCardImage(imgElement, lightImage, darkImage) {

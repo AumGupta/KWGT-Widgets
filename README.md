@@ -2,7 +2,7 @@
 
 ![GitHub License](https://img.shields.io/github/license/AumGupta/KWGT-widgets)
 ![GitHub repo size](https://img.shields.io/github/repo-size/AumGupta/KWGT-widgets)
-![Widget Count](https://img.shields.io/badge/widget%20Count-35-blue?style=social&link=https%3A%2F%2Fgithub.com%2FAumGupta%2FKWGT-Widgets%2Ftree%2Fmain%2Fwidgets)
+![Widget Count](https://img.shields.io/badge/widget%20Count-40-blue?style=social&link=https%3A%2F%2Fgithub.com%2FAumGupta%2FKWGT-Widgets%2Ftree%2Fmain%2Fwidgets)
 
 ---
 
@@ -45,63 +45,54 @@ This repository hosts a collection of custom [**KWGT widgets**](https://aumgupta
 > [!TIP]
 > Visit the [**website**](https://aumgupta.github.io/KWGT-Widgets/) for better view of all the widgets. Detailed information about the widgets can be then found in the following.
 
+### New `INTERSTELLAR` themed widgets added!
 
-- ### [Universal Media Player](widgets/Universal_Media_Player.kwgt)
-  > <img src="docs/previews/Universal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
+- ### [Interstellar Analog Khaki Field Murph Auto](widgets/Interstellar_Analog_Khaki_Field_Murph_Auto.kwgt)
+  > <img src='docs/previews/Interstellar_Analog_Khaki_Field_Murph_Auto.kwgt.png' alt='Light Preview' style='width:200px;'/>
   >
-  > A fully customizable universal media player widget.
+  > My favorite Interstellar widget! It is the Hamilton Khaki Field Murph Auto Widget.
   > 
-  > **Key Features:**  
-  > - Blurred song cover fill in the background.  
-  > - Integrated progress bar on the album cover border.
+  > **Key Feature:** Resizable (No scaling, everything adjusts as per widget dimensions).
 
-
-- ### [Material3 Expanded Media Player](widgets/Material3_Expanded_Media_Player.kwgt)
-  
-  > <img src="docs/previews/Material3_Expanded_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
+- ### [Interstellar Endurance](widgets/Interstellar_Endurance.kwgt)
+  > | <img src='docs/previews/Interstellar_Endurance.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Interstellar_EnduranceDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
   >
-  > A fully customizable media player widget based on Material You theme.
+  > Straight out of INTERSTELLAR, a rotating Endurance Widget which is the interplanetary spacecraft built by NASA as part of Project Endurance.
   > 
-  > **Key Features:**  
-  > - Dynamic accent color theming based on song cover.
-  > - Integrated progress bar with wave effect.
-  > - Top right container shows music app name.
-  >
+  > **Key Feature:** Automatically adapts to wallpaper color (Light if wallpaper is dark and vice versa).
 
-- ### [Material3 Media Player Output](widgets/Material3_Media_Player_Output.kwgt)
+- ### [Interstellar Endurance Analog](widgets/Interstellar_Endurance_Analog.kwgt)
+  > | <img src='docs/previews/Interstellar_Endurance_Analog.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Interstellar_Endurance_AnalogDark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > Analog clock with Endurance spacecraft acting as the seconds hand. Hours and minutes reflected bt small triangle indicators.
   > 
-  > <img src="docs/previews/Material3_Media_Player_Output.kwgt.png" alt="Preview" style="width:250px;"/>
-  >
-  > - **Key Difference:**  Top right container shows *output* device (Phone/Bluetooth Device name).
+  > **Key Feature:** Automatically adapts to wallpaper color.
 
-- ### [Mini Media Player](widgets/Mini_Media_Player.kwgt)
-  
-  > <img src="docs/previews/Mini_Media_Player.kwgt.png" alt="Preview" style="width:200px;"/>
+- ### [Interstellar Endurance Analog 2](widgets/Interstellar_Endurance_Analog_2.kwgt)
+  > <img src='docs/previews/Interstellar_Endurance_Analog_2.kwgt.png' alt='Light Preview' style='width:200px;'/>
   >
-  > A mini media player widget based on Material You theme.
+  > No rotation in the Endurance as now it acts as the dial of the clock, each module corresponding to hours.
   > 
-  > **Key Feature:** Dynamic accent color theming based on song cover.
+  > **Key Features:** 
+  > - The color of the module changes to red for corresponding hour value.
+  > - Minutes indicated by a triangular minute hand.
 
-- ### [Minimal Media Player](widgets/Minimal_Media_Player.kwgt)
-  > <img src="docs/previews/Minimal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
+- ### [Interstellar Analog](widgets/Interstellar_Analog.kwgt)
+  > <img src='docs/previews/Interstellar_Analog.kwgt.png' alt='Light Preview' style='width:200px;'/>
   >
-  > Minimal media player widget based on Material You theme.
-  >
-  > - **Key Feature:** Dynamic accent color theming based on *system theme*.  
-  >
+  > A 3D-tilted clock widget inspired by Interstellar, where gravitational waves manipulate the second hand to bridge communication between dimensions, symbolizing the link between gravity and time inside the tesseract
+  > 
+  > **Note:** I am still perfecting this one. If you have any other ideas to improve this one, I'd love to see them. I never lock these, so go ahead and modify.
 
-- ### [Minimal Media Player 2](widgets/Minimal_Media_Player_2.kwgt)
-  >
-  > <img src="docs/previews/Minimal_Media_Player_2.kwgt.png" alt="Preview" style="width:250px;"/>
-  >
-  > - **Key Difference:**  Dynamic accent color theming based on *song cover*.  
-  >
+  More INTERSTELLAR themed widgets coming soon!
 
-- ### [Minimal Media Player 3](widgets/Minimal_Media_Player_3.kwgt)
-  >
-  > <img src="docs/previews/Minimal_Media_Player_3.kwgt.png" alt="Preview" style="width:250px;"/>
-  >
-  > - **Key Difference:**  Dynamic accent color theming based on *song cover*.  
+---
+
+### **`NOTHING OS`** Inpired widgets ahead!
 
 - ### [Nothing Analog ](widgets/Nothing_Analog_.kwgt)
   > | <img src='docs/previews/Nothing_Analog_.kwgt.png' alt='Light Preview' style='width:200px;'/> | <img src='docs/previews/Nothing_Analog_Dark.kwgt.png' alt='Dark Preview' style='width:200px;'/> |
@@ -326,24 +317,57 @@ This repository hosts a collection of custom [**KWGT widgets**](https://aumgupta
   > 
   > **Key Feature:** Automatically adapts to system theme.
 
-- ### [iOS Battery Widget](widgets/iOS_Battery_Widget.kwgt)
-  
-  > <img src="docs/previews/iOS_Battery_Widget.kwgt.png" alt="Preview" style="width:150px;"/>
-  >
-  > A Battery widget inspired by Apple iOS.
-  > 
-  > **Key Feature:** Progress color and icon based on battery level and status (Charging or not).
+---
 
-- ### [Clean Time Date Info](widgets/Clean_Time_Date_Info.kwgt)
+### **`Material You`** inspired widgets:
+
+- ### [Material3 Expanded Media Player](widgets/Material3_Expanded_Media_Player.kwgt)
   
-  > | <img src="docs/previews/Clean_Time_Date_Info.kwgt.png" alt="Preview" style="width:200px;"/> | <img src="docs/previews/Clean_Time_Date_InfoDark.kwgt.png" alt="Preview" style="width:200px;"/> |
-  > |-------|------|
-  > | Light | Dark |
+  > <img src="docs/previews/Material3_Expanded_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
   >
-  > A clean time, date and battery information widget.
+  > A fully customizable media player widget based on Material You theme.
   > 
-  > **Key Feature:** Dynamic theme based on system theme.
+  > **Key Features:**  
+  > - Dynamic accent color theming based on song cover.
+  > - Integrated progress bar with wave effect.
+  > - Top right container shows music app name.
+  >
+
+- ### [Material3 Media Player Output](widgets/Material3_Media_Player_Output.kwgt)
+  > 
+  > <img src="docs/previews/Material3_Media_Player_Output.kwgt.png" alt="Preview" style="width:250px;"/>
+  >
+  > - **Key Difference:**  Top right container shows *output* device (Phone/Bluetooth Device name).
+
+- ### [Mini Media Player](widgets/Mini_Media_Player.kwgt)
   
+  > <img src="docs/previews/Mini_Media_Player.kwgt.png" alt="Preview" style="width:200px;"/>
+  >
+  > A mini media player widget based on Material You theme.
+  > 
+  > **Key Feature:** Dynamic accent color theming based on song cover.
+
+- ### [Minimal Media Player](widgets/Minimal_Media_Player.kwgt)
+  > <img src="docs/previews/Minimal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
+  >
+  > Minimal media player widget based on Material You theme.
+  >
+  > - **Key Feature:** Dynamic accent color theming based on *system theme*.  
+  >
+
+- ### [Minimal Media Player 2](widgets/Minimal_Media_Player_2.kwgt)
+  >
+  > <img src="docs/previews/Minimal_Media_Player_2.kwgt.png" alt="Preview" style="width:250px;"/>
+  >
+  > - **Key Difference:**  Dynamic accent color theming based on *song cover*.  
+  >
+
+- ### [Minimal Media Player 3](widgets/Minimal_Media_Player_3.kwgt)
+  >
+  > <img src="docs/previews/Minimal_Media_Player_3.kwgt.png" alt="Preview" style="width:250px;"/>
+  >
+  > - **Key Difference:**  Dynamic accent color theming based on *song cover*.  
+
 - ### [Material Notification Widget](widgets/Material_Notification_Widget.kwgt)
 
 
@@ -357,3 +381,40 @@ This repository hosts a collection of custom [**KWGT widgets**](https://aumgupta
   > - Dynamic theme based on system theme (Dark/Light).
   > - Clear button removes the current notification.
   > - Clicking on the widget opens the notification.
+
+---
+
+### **`iOS`** inspired widgets:
+
+- ### [iOS Battery Widget](widgets/iOS_Battery_Widget.kwgt)
+  
+  > <img src="docs/previews/iOS_Battery_Widget.kwgt.png" alt="Preview" style="width:150px;"/>
+  >
+  > A Battery widget inspired by Apple iOS.
+  > 
+  > **Key Feature:** Progress color and icon based on battery level and status (Charging or not).
+
+More iOS widgtes coming sooon...
+
+---
+
+### Other **`COOL`** widgets:
+
+- ### [Clean Time Date Info](widgets/Clean_Time_Date_Info.kwgt)
+  
+  > | <img src="docs/previews/Clean_Time_Date_Info.kwgt.png" alt="Preview" style="width:200px;"/> | <img src="docs/previews/Clean_Time_Date_InfoDark.kwgt.png" alt="Preview" style="width:200px;"/> |
+  > |-------|------|
+  > | Light | Dark |
+  >
+  > A clean time, date and battery information widget.
+  > 
+  > **Key Feature:** Dynamic theme based on system theme.
+
+- ### [Universal Media Player](widgets/Universal_Media_Player.kwgt)
+  > <img src="docs/previews/Universal_Media_Player.kwgt.png" alt="Preview" style="width:250px;"/>
+  >
+  > A fully customizable universal media player widget.
+  > 
+  > **Key Features:**  
+  > - Blurred song cover fill in the background.  
+  > - Integrated progress bar on the album cover border.
