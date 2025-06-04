@@ -368,7 +368,7 @@ This repository hosts a collection of custom [**KWGT widgets**](https://aumgupta
   >
   > - **Key Difference:**  Dynamic accent color theming based on *song cover*.  
 
-- ### [Material Notification Widget](widgets/Material_Notification_Widget.kwgt)
+- ### [Material Notification Widget](widgets/material_notification_widget.kwgt)
 
 
   > | <img src="docs/previews/Material_Notification_Widget.kwgt.png" alt="Preview" style="width:300px;"/>  | <img src="docs/previews/Material_Notification_WidgetDark.kwgt.png" alt="Preview" style="width:300px;"/>  | <img src="docs/previews/Material_Notification_Widget_Empty.kwgt.png" alt="Preview" style="width:300px;"/>  |
